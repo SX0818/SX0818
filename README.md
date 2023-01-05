@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Yuqian 👩‍💻
+### Hi there 👋, I'm Yuqian 👩‍💻 but you can call me Sicily 
+
+
+
+
 
 <!--
 **SX0818/SX0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My GitHub Stats:
+🏆 My GitHub Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SX0818)](https://github.com/anuraghazra/github-readme-stats)
 
-Languages that I use:
+📌 Languages that I use:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SX0818&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SX0818&theme=tokyonight)
