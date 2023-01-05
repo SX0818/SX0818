@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yuqian 👩‍💻 but you can call me Sicily 
 
 
-
+## 🔎 I'm a BSc Mathematical Sciences student at the University of British Columbia
 
 
 <!--
